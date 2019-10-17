@@ -1,0 +1,11 @@
+C:\Users\Inmetrics\Desktop\Marlon\Github\Teste\ProjetoLocacao\ProjetoLocacao\ProjetoLocacao\bin\Debug\netcoreapp2.1\ProjetoLocacao.deps.json
+C:\Users\Inmetrics\Desktop\Marlon\Github\Teste\ProjetoLocacao\ProjetoLocacao\ProjetoLocacao\bin\Debug\netcoreapp2.1\ProjetoLocacao.runtimeconfig.json
+C:\Users\Inmetrics\Desktop\Marlon\Github\Teste\ProjetoLocacao\ProjetoLocacao\ProjetoLocacao\bin\Debug\netcoreapp2.1\ProjetoLocacao.runtimeconfig.dev.json
+C:\Users\Inmetrics\Desktop\Marlon\Github\Teste\ProjetoLocacao\ProjetoLocacao\ProjetoLocacao\bin\Debug\netcoreapp2.1\ProjetoLocacao.dll
+C:\Users\Inmetrics\Desktop\Marlon\Github\Teste\ProjetoLocacao\ProjetoLocacao\ProjetoLocacao\bin\Debug\netcoreapp2.1\ProjetoLocacao.pdb
+C:\Users\Inmetrics\Desktop\Marlon\Github\Teste\ProjetoLocacao\ProjetoLocacao\ProjetoLocacao\obj\Debug\netcoreapp2.1\ProjetoLocacao.csprojAssemblyReference.cache
+C:\Users\Inmetrics\Desktop\Marlon\Github\Teste\ProjetoLocacao\ProjetoLocacao\ProjetoLocacao\obj\Debug\netcoreapp2.1\ProjetoLocacao.csproj.CoreCompileInputs.cache
+C:\Users\Inmetrics\Desktop\Marlon\Github\Teste\ProjetoLocacao\ProjetoLocacao\ProjetoLocacao\obj\Debug\netcoreapp2.1\ProjetoLocacao.AssemblyInfoInputs.cache
+C:\Users\Inmetrics\Desktop\Marlon\Github\Teste\ProjetoLocacao\ProjetoLocacao\ProjetoLocacao\obj\Debug\netcoreapp2.1\ProjetoLocacao.AssemblyInfo.cs
+C:\Users\Inmetrics\Desktop\Marlon\Github\Teste\ProjetoLocacao\ProjetoLocacao\ProjetoLocacao\obj\Debug\netcoreapp2.1\ProjetoLocacao.dll
+C:\Users\Inmetrics\Desktop\Marlon\Github\Teste\ProjetoLocacao\ProjetoLocacao\ProjetoLocacao\obj\Debug\netcoreapp2.1\ProjetoLocacao.pdb
